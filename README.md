@@ -14,8 +14,8 @@
 </p>
 
 <!-- ===================== 3D CODING VISUAL ===================== -->
-<p align="right">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="340"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </p>
 
 ---
