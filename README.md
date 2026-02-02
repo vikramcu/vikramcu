@@ -81,6 +81,20 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikramcu&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikramcu&style=for-the-badge&color=brightgreen" />
+</p>
+
+---
 
 ## 🚀 Projects
 
