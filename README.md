@@ -82,14 +82,13 @@
 <br>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+---
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikramcu&style=for-the-badge&color=brightgreen" />
 </p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
 ---
 ## 🚀 Projects
 
