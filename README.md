@@ -1,7 +1,7 @@
 [PORTFOLIO](https://Vikram-an-portfolio.lovable.app/)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Karthik+A+N+%7C+Java+Full+Stack+Developer;%E2%98%95+Building+Robust+Backends+with+Java+%26+Spring+Boot;%F0%9F%9A%80+Designing+Scalable+REST+APIs+with+MySQL+Databases;%F0%9F%8C%B1+Learning+DevOps%2C+Docker+%26+Cloud+Deployments;%F0%9F%92%AC+Let%E2%80%99s+Build+Reliable+Software+Together!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Karthik A N Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Karthik+A+N+%7C+Java+Full+Stack+Developer;%E2%98%95+Building+Robust+Backends+with+Java+%26+Spring+Boot;%F0%9F%9A%80+Designing+Scalable+REST+APIs+with+MySQL+Databases;%F0%9F%8C%B1+Learning+DevOps%2C+Docker+%26+Cloud+Deployments;%F0%9F%92%AC+Let%E2%80%99s+Build+Reliable+Software+Together!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Vikram M Typing Animation" />
 </h1>
 
 <p align="center">
@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
- Hi there! I’m Karthik A N, an Aspiring Java Full Stack Developer passionate about building scalable, backend-driven web applications. Skilled in Java, Spring Boot, MySQL, RESTful APIs, and DevOps tools, I focus on clean architecture and efficient data handling. Proficient in SDLC, Git/GitHub, Docker, API testing, and deployment workflows, I’m eager to contribute to real-world projects and grow as a full-stack engineer. Let’s build something impactful together! 🚀
+ Hi there! I’m Vikram M, an Aspiring Java Full Stack Developer passionate about building scalable, backend-driven web applications. Skilled in Java, Spring Boot, MySQL, RESTful APIs, and DevOps tools, I focus on clean architecture and efficient data handling. Proficient in SDLC, Git/GitHub, Docker, API testing, and deployment workflows, I’m eager to contribute to real-world projects and grow as a full-stack engineer. Let’s build something impactful together! 🚀
 </p>
 <p align="right">
-  <a href="https://linkedin.com/in/karthikan123/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/vikram011/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
 </p>
 
 ---
