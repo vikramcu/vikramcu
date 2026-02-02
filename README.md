@@ -1,89 +1,93 @@
-<!-- ===================== 3D TYPING HEADER ===================== -->
+[PORTFOLIO](https://Vikram-an-portfolio.lovable.app/)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Karthik+A+N+%7C+Java+Full+Stack+Developer;%E2%98%95+Building+Robust+Backends+with+Java+%26+Spring+Boot;%F0%9F%9A%80+Designing+Scalable+REST+APIs+with+MySQL+Databases;%F0%9F%8C%B1+Learning+DevOps%2C+Docker+%26+Cloud+Deployments;%F0%9F%92%AC+Let%E2%80%99s+Build+Reliable+Software+Together!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Karthik A N Typing Animation" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2200&pause=500&color=38BDF8&center=true&vCenter=true&width=1100&lines=Hi+👋+I'm+Vikram;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Scalable+Industry+Applications;Clean+Code+%7C+Secure+APIs+%7C+Modern+UI" />
+  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" width="300px" height="250px" />
+</p>
+---
+
+## 🌟 About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aspiring%20Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=github" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-blue?style=for-the-badge&logo=mapbox" alt="Location Badge" />
 </p>
 
-<!-- ===================== 3D WAVES ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:38BDF8&height=170&animation=twinkling"/>
+ Hi there! I’m Karthik A N, an Aspiring Java Full Stack Developer passionate about building scalable, backend-driven web applications. Skilled in Java, Spring Boot, MySQL, RESTful APIs, and DevOps tools, I focus on clean architecture and efficient data handling. Proficient in SDLC, Git/GitHub, Docker, API testing, and deployment workflows, I’m eager to contribute to real-world projects and grow as a full-stack engineer. Let’s build something impactful together! 🚀
 </p>
-
-<!-- ===================== GLOW DIVIDER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:38BDF8&height=4"/>
-</p>
-
-<!-- ===================== CODING VISUAL ===================== -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="340"/>
+<p align="right">
+  <a href="https://linkedin.com/in/karthikan123/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🛠️ Tech Stack & Tools
 
-✨ Java Full Stack Developer  
-✨ Strong Backend Architecture  
-✨ REST APIs & JWT Authentication  
-✨ Clean Code & Best Practices  
-✨ Industry-Ready Application Design  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Spring+Boot+%7C+MySQL+%7C+DevOps!" alt="Tech Stack Animation" />
+</p>
+
+### Backend & Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="Spring" title="Spring" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="60" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60" alt="Hibernate" title="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="60" alt="Maven" title="Maven" />
+</p>
+
+### Frontend & UI
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="ReactJS" title="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" title="Bootstrap" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="60" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL" />
+  <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" height="60" alt="Oracle Database" title="Oracle Database" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" title="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" title="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="60" alt="Eclipse" title="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="60" alt="Linux" title="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="Tomcat" title="Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform" title="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
+</p>
 
 ---
 
-## 🛠 Tech Stack (3D Neon)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,git,github,docker&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-38BDF8?style=for-the-badge&logo=java&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-22C55E?style=for-the-badge&logo=springboot&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-🟦 **Employee Management System**  
-`Java | Spring Boot | MySQL | React`  
-✔ CRUD Operations  
-✔ REST APIs  
-✔ Pagination & Validation  
-
-🟦 **E-Commerce Full Stack Application**  
-`Spring Boot | React | JWT`  
-✔ Authentication  
-✔ Cart & Orders  
-✔ Secure APIs  
-
-🟦 **JWT Authentication System**  
-`Spring Security`  
-✔ Role-Based Access  
-✔ Token Validation  
-
-🟦 **REST API Suite**  
-✔ GET / POST / PUT / DELETE  
-✔ Swagger UI  
-✔ Exception Handling  
-
----
-
-## 📂 Clean Architecture
-
-```text
-project-name
-│
-├── backend
-│   ├── controller
-│   ├── service
-│   ├── repository
-│   └── model
-│
-├── frontend
-│   └── react-app
-│
-├── README.md
-└── screenshots
+Here are some of my featured projects that showcase my skills in full-stack development:
