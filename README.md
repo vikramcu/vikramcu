@@ -22,7 +22,7 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https:https://www.linkedin.com/in/vikram011/" target="_blank">
+  <a href="https://www.linkedin.com/in/vikram011/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:vikramweb.1104@gmail.com">
