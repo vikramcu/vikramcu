@@ -87,6 +87,7 @@ Here are some of my featured projects that showcase my skills in full-stack deve
 
 ---
 ---
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikramcu&style=for-the-badge&color=brightgreen" />
 </p>
