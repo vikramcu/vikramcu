@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/vikram011/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:vikramweb.1104@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vikramweb.1104@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vikramcu" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
