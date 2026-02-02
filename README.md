@@ -19,9 +19,18 @@
 <p align="center">
  Hi there! I’m Vikram M, an Aspiring Java Full Stack Developer passionate about building scalable, backend-driven web applications. Skilled in Java, Spring Boot, MySQL, RESTful APIs, and DevOps tools, I focus on clean architecture and efficient data handling. Proficient in SDLC, Git/GitHub, Docker, API testing, and deployment workflows, I’m eager to contribute to real-world projects and grow as a full-stack engineer. Let’s build something impactful together! 🚀
 </p>
-<p align="right">
-  <a href="https://www.linkedin.com/in/vikram011/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="https:https://www.linkedin.com/in/vikram011/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:vikramweb.1104@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
+
+---
 
 ---
 
@@ -71,6 +80,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform" title="terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikramcu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramcu&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramcu&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
