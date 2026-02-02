@@ -75,7 +75,6 @@
 
 ---
 
-
 ## 🚀 Projects
 
 Here are some of my featured projects that showcase my skills in full-stack development:
