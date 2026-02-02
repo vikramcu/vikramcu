@@ -84,17 +84,23 @@
 
 ---
 
+<br>
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramcu&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramcu&layout=compact&theme=radical" height="165" />
+  <a href="https://github.com/vikramcu">
+    <img src="https://github-readme-stats.vercel.app/api?username=vikramcu&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/vikramcu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramcu&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  </a>
 </p>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikramcu&theme=radical" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vikramcu&theme=radical&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 
