@@ -81,12 +81,9 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramcu&show_icons=true&theme=radical&hide_border=true" />
-</p>
+## 🚀 Projects
 
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+Here are some of my featured projects that showcase my skills in full-stack development:
 
 ---
 
@@ -95,7 +92,5 @@
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-## 🚀 Projects
-
-Here are some of my featured projects that showcase my skills in full-stack development:
