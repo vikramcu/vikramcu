@@ -80,12 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
 </p>
 
----
-## 🚀 Projects
 
-Here are some of my featured projects that showcase my skills in full-stack development:
-
----
 ---
 <br>
 <p align="center">
@@ -94,4 +89,9 @@ Here are some of my featured projects that showcase my skills in full-stack deve
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+---
+## 🚀 Projects
+
+Here are some of my featured projects that showcase my skills in full-stack development:
 
