@@ -26,10 +26,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vikramweb.1104@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://img.shields.io/badge/Gmail-vikramcu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vikramcu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
 
