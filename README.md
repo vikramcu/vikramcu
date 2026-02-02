@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -80,18 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform" title="terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
-</p>
-
----
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vikramcu&amp;show_icons=true&amp;theme=radical&amp;hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramcu&amp;layout=compact&amp;theme=radical&amp;hide_border=true"
-    height="180"
-  />
 </p>
 
 ---
