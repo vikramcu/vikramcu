@@ -31,6 +31,10 @@
   <a href="https://github.com/vikramcu" target="_blank">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
+  <a href="https://vikram-portfolio-zeta.vercel.app/" target="_blank">
+  <img src="https://via.placeholder.com/800x400.png?text=Vikram+Portfolio" alt="Vikram Portfolio"/>
+</a>
+
 </p>
 
 ---
