@@ -31,8 +31,8 @@
   <a href="https://github.com/vikramcu" target="_blank">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="https://vikram-portfolio-zeta.vercel.app/" target="_blank">
-  <img src="https://via.placeholder.com/800x400.png?text=Vikram+Portfolio" alt="Vikram Portfolio"/>
+<a href="https://vikram-portfolio-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </p>
